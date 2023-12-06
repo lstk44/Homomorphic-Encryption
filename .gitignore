@@ -9,6 +9,9 @@ __pycache__/
 # csv files
 *.csv
 
+# DatasetsNotebook.ipynb
+*DatasetGenerator.ipynb
+
 # Distribution / packaging
 .Python
 build/
