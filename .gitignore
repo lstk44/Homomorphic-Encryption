@@ -10,7 +10,7 @@ __pycache__/
 *.csv
 
 # DatasetsNotebook.ipynb
-*DatasetGenerator.ipynb
+*test.ipynb
 
 # Distribution / packaging
 .Python
