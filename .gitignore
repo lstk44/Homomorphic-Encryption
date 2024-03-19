@@ -9,6 +9,9 @@ __pycache__/
 # csv files
 *.csv
 
+# OldData folder
+*OldData/
+
 # test.ipynb
 *test.ipynb
 
