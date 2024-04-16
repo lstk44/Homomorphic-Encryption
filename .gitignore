@@ -6,15 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
-# csv files
+# csv files except ThesisResults.csv
 *.csv
-
-# OldData folder
-*OldData/
+!Results/ThesisResults.csv
 
 # test.ipynb
 *test.ipynb
-*results.ipynb
 
 # Distribution / packaging
 .Python
